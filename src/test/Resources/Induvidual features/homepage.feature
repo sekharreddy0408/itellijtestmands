@@ -7,3 +7,10 @@ Feature: this is home page featurefile
 
     Scenario: THIS IS Second test scenario
       Given click on the kids link
+
+  Scenario: THIS IS Second test scenario
+    Given click on the kids link
+  Scenario: THIS IS Second test scenario
+    Given click on the kids link
+  Scenario: THIS IS Second test scenario
+    Given click on the kids link
